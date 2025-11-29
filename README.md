@@ -1,0 +1,1 @@
+# Apriori-ile-Kanserde-Ilac-Tepkisi-Belirleyici-Gen-Etkilesim-Kurallarinin-Kesfi
